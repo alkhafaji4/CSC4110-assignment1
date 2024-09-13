@@ -1,2 +1,1 @@
-Sara Alkhafaji
-hk4694
+# Github and git
